@@ -1,0 +1,20 @@
+# 计算机视觉中期作业依赖库
+# 安装命令: pip install -r requirements.txt
+
+# 核心计算机视觉库
+opencv-python-headless>=4.5.0
+
+# 科学计算库
+numpy>=1.21.0
+
+# 数据可视化
+matplotlib>=3.5.0
+
+# 图像处理
+Pillow>=9.0.0
+
+# 用户界面（可选，用于GUI）
+# tkinter (Python内置，无需安装)
+
+# 开发工具
+# 无额外开发依赖
